@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year EECS PhD student at UC Berkeley, interested in AI-psychology systems, focusing on human-AI interaction and multi-agent systems. I am happily advised by [Narges Norouzi](https://nargesnorouzi.me/) and [Joey Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/). I am affiliated with [Sky Computing Lab](https://sky.cs.berkeley.edu/) and [Berkeley AI Research (BAIR)](https://bair.berkeley.edu/). I am also fortunate enough to work with [Gireeja Ranade](https://people.eecs.berkeley.edu/~gireeja/) and [Alane Suhr](https://www.alanesuhr.com/).
+I am a first-year EECS PhD student at UC Berkeley, interested in AI-psychology systems, focusing on evaluation, human-AI interaction, and multi-agent systems. I am happily advised by [Narges Norouzi](https://nargesnorouzi.me/) and [Joey Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/). I am affiliated with [Sky Computing Lab](https://sky.cs.berkeley.edu/) and [Berkeley AI Research (BAIR)](https://bair.berkeley.edu/). I am also fortunate enough to work with [Gireeja Ranade](https://people.eecs.berkeley.edu/~gireeja/) and [Alane Suhr](https://www.alanesuhr.com/).
 
-Previously, I earned my B.A. degree in CS (Honors) and Statistics at UC Berkeley from the [College of Computing, Data Science, and Society (CDSS)](https://cdss.berkeley.edu/). My undergraduate research was focused on AI for Education, advised by [Narges Norouzi](https://nargesnorouzi.me/), [Gireeja Ranade](https://people.eecs.berkeley.edu/~gireeja/), and [Lisa Yan](https://www2.eecs.berkeley.edu/Faculty/Homepages/yanlisa.html).
+Previously, I earned my B.A. degree in CS (Honors) and Statistics from the [College of Computing, Data Science, and Society (CDSS)](https://cdss.berkeley.edu/) at UC Berkeley; my undergraduate research was focused on AI for Education.
 
 <h2>Publications</h2>
 
