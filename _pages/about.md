@@ -20,7 +20,7 @@ Previously, I earned my B.A. degree in CS (Honors) and Statistics from the [Coll
 </div>
 
 <div style="margin-bottom: 20px;">
-  <a href="https://dl.acm.org/doi/10.1145/3626252.3630838" target="_blank" style="text-decoration: none;">
+  <a href="https://dl.acm.org/doi/10.1609/aaai.v38i21.30368" target="_blank" style="text-decoration: none;">
     <strong>RetLLM-E: Retrieval-Prompt Strategy for Question-Answering on Student Discussion Forums</strong>
   </a><br>
   <span style="font-size: 0.9em;">Chancharik Mitra*, <strong>Mihran Miroyan*</strong>, Rishi Jain*, Vedant Kumud, Gireeja Ranade, Narges Norouzi.</span><br>
@@ -36,7 +36,7 @@ Previously, I earned my B.A. degree in CS (Honors) and Statistics from the [Coll
 </div>
 
 <div style="margin-bottom: 20px;">
-  <a href="https://dl.acm.org/doi/10.1609/aaai.v38i21.30368" target="_blank" style="text-decoration: none;">
+  <a href="https://dl.acm.org/doi/10.1145/3626252.3630838" target="_blank" style="text-decoration: none;">
     <strong>EIT: Earnest Insight Toolkit for Evaluating Students' Earnestness in Interactive Lecture Participation Exercises</strong>
   </a><br>
   <span style="font-size: 0.9em;"><strong>Mihran Miroyan*</strong>, Shiny Weng*, Rahul Shah, Lisa Yan, Narges Norouzi.</span><br>
